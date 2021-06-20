@@ -1,5 +1,5 @@
 # pico_raspberry_raycasting
-a ray casiting thing on a raspberry pi pico
+a ray casting thing on a raspberry pi pico
 
 it uses composite video based on [this repo](https://github.com/breakintoprogram/pico-mposite)<br>
 it take input from a ps2 keyborad from my other pico repo<br>
